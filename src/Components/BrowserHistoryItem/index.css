@@ -1,0 +1,13 @@
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  list-style-type: none;
+  width: 100%;
+  margin: 7px;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+}
